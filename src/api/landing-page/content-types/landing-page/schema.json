@@ -27,11 +27,10 @@
       "component": "page.header"
     },
     "sectionAboutProject": {
-      "displayName": "about-section",
+      "displayName": "sectionAboutProject",
       "type": "component",
       "repeatable": false,
-      "component": "page.about-section",
-      "required": false
+      "component": "page.section-about-project"
     },
     "sectionTech": {
       "displayName": "sectionTech",
