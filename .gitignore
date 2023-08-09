@@ -119,3 +119,4 @@ build
 ############################
 
 .vscode
+database/data/*

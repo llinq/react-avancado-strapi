@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_page_about_sections",
+  "info": {
+    "displayName": "sectionAboutProject",
+    "icon": "information",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext",
+      "required": true,
+      "minLength": 150
+    },
+    "media": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "videos"
+      ]
+    },
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
