@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_section_concepts",
+  "info": {
+    "displayName": "sectionConcepts"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "concepts": {
+      "displayName": "concepts",
+      "type": "component",
+      "repeatable": true,
+      "component": "page.concepts"
+    }
+  }
+}
