@@ -32,6 +32,12 @@
       "repeatable": false,
       "component": "page.about-section",
       "required": false
+    },
+    "sectionTech": {
+      "displayName": "sectionTech",
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-tech"
     }
   }
 }
